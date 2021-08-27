@@ -1,4 +1,4 @@
-Hello, I’m @pdeviggi, from La Plata, Argentina
+Hello, I’m @pdeviggi, from La Plata, Argentina.
 I love software development and digital transformation of institutions and companies
 Regards!
 
